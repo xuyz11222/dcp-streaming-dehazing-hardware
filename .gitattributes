@@ -1,0 +1,8 @@
+* text=auto
+*.raw binary
+*.png binary
+*.pdf binary
+*.v text eol=lf
+*.py text eol=lf
+*.cpp text eol=lf
+*.ps1 text eol=crlf

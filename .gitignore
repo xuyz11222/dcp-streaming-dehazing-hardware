@@ -1,0 +1,15 @@
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.o
+*.obj
+*.exe
+*.blif
+*.out
+.venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*

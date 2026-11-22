@@ -1,0 +1,7 @@
+======== ABC command line "read_blif -n design.blif; strash; zero; balance; rewrite; rewrite -z; balance; if -K 6 -a; print_stats"
+design.blif (line 161808): Skipping directive ".subckt".
+design.blif (line 161809): Skipping directive ".subckt".
+Warning: Constant-0 drivers added to 131 non-driven nets in network "dcp_synth":
+u.u_win.p1[24], u.u_win.p1[25], u.u_win.p1[26], u.u_win.p1[27] ...
+Converting 175 flops from don't-care to zero initial value.
+dcp_synth                     : i/o =   28/   32  lat =  175  nd =   379  edge =   1442  aig  =  1473  lev = 33
