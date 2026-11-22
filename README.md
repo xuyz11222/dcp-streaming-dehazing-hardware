@@ -1,6 +1,7 @@
-# DCP Streaming Dehazing Hardware
+# Parameterized DCP Streaming Dehazing Hardware
+## 参数化 DCP 流式去雾硬件与精度--面积联合优化
 
-Parameterized dark-channel-prior (DCP) streaming dehazing hardware with joint precision–area optimization.
+Streaming dark-channel-prior (DCP) dehazing hardware with joint precision–area design space exploration. This is the reproduction package for the course project "参数化 DCP 流式去雾硬件与精度--面积联合优化" (第 17 组).
 
 This repository is the canonical reproduction package (`project2`). The older `project1` tree is a working/scratch directory and is not part of this release.
 
